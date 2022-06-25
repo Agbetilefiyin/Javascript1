@@ -1,0 +1,1 @@
+document.getElementById("java").innerHTML = "<strong>Name: </strong> Agbetile Fiyin <p><strong>Height: </strong> 5'3 foot</p> <p><strong>Country: </strong> Nigeria";
